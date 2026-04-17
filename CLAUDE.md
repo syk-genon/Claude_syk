@@ -1,6 +1,6 @@
 # Global Claude Code Rules
 
-> 이 파일은 `~/.claude/CLAUDE.md`에 위치하며, 모든 프로젝트에서 Claude Code 세션 시작 시 자동으로 로드됩니다.
+> 이 파일은 모든 프로젝트에서 Claude Code 세션 시작 시 자동으로 로드됩니다.
 > 프로젝트별 규칙은 각 프로젝트 루트의 `./CLAUDE.md`에서 정의하고, 이 전역 규칙을 덮어쓸 수 있습니다.
 
 ---
